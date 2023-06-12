@@ -1,6 +1,6 @@
-# tishuloader
+# Tishuloader
 
-A new Flutter project.
+A Flutter Application made by [Narayan](https://instagram.com/me_narayan_vi).
 
 ## Getting Started
 
